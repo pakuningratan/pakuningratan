@@ -4,7 +4,7 @@
  💞️ I’m looking to collaborate on ...
  📫 How to reach me ...
 
-<!-- <img src=""> this is another way you can add in images -->
+<img src="https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif"> this is another way you can add in images -->
 
 ![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
